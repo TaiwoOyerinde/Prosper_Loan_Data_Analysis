@@ -4,7 +4,7 @@
 
 ## Dataset
 
-The dataset explored for this project was provided in the Udacity Classroom [here] (https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&sa=D&ust=1581581520570000). It contains 113,937 loans with 81 variables on each loan listing, which can be summarized into 2: Borrowers' Data and Loan index.
+The dataset explored for this project was provided in the Udacity Classroom [here]("https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&sa=D&ust=1581581520570000"). It contains 113,937 loans with 81 variables on each loan listing, which can be summarized into 2: Borrowers' Data and Loan index.
     Before exploring the data, I made a subset of the original data which includes 20 variables of interest among which are: 
 - **EmploymentStatus**: The employment status of the borrower at the time they posted the listing.
 - **Occupation**: The Occupation selected by the Borrower at the time they created the listing.
